@@ -2,7 +2,3 @@
 .vs/dog-facts-bus/v17/.suo
 
 *.cache
-
-bin/Debug/net5.0-windows/
-
-obj/Debug/net5.0-windows/
