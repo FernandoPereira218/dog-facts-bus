@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "181abe7f-d003-46e0-b60d-8c5f2d1b077c": {
+      "ProjectGuid": "181abe7f-d003-46e0-b60d-8c5f2d1b077c",
+      "DisplayName": "dog-facts-bus",
+      "ColorIndex": 0
+    },
+    "42382925-59ab-48f9-8a68-98c1b395a6cf": {
+      "ProjectGuid": "42382925-59ab-48f9-8a68-98c1b395a6cf",
+      "DisplayName": "dog-facts-receiver",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8fc4267f-eb10-485a-9af6-95963a0d0f7b": {
+      "ProjectGuid": "8fc4267f-eb10-485a-9af6-95963a0d0f7b",
+      "DisplayName": "dog-facts-bus-receiver",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
